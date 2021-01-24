@@ -20,7 +20,6 @@ Almost 45% of the total plastic packaging get thrown or dumped into the Oceans, 
 | -------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 
 
-
 ## Overview
 
 An efficient tool that uses convolutional neural networks in order to detect the
